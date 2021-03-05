@@ -10,6 +10,7 @@ body{
     background-attachment: fixed;
     position: fixed;
     height: 100%;
+    color: white;
 }
 h2{
     margin: 4px;
